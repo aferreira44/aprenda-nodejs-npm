@@ -60,6 +60,13 @@ npm install --save <nome-do-pacote>
 npm install --save-dev <nome-do-pacote>
 ```
 
+### Remove pacotes que não estão mais no arquivo `package.json`
+
+```shell
+npm prune
+```
+
+
 ## Exercício
 
 1. Criar uma nova pasta com `mkdir <nome-da-pasta>`
